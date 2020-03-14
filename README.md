@@ -1,3 +1,5 @@
+Do all the things when setting up
+
 **Building and running the container**
 `docker-compose build`
 
